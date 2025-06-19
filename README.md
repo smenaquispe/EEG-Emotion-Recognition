@@ -18,7 +18,9 @@ Resultados de modelos relacionados
 #### Resultados obtenidos
 
 
-La ejecución de esta implementación se encuentra en el siguiente notebook utilizando el dataset DEAP utilizando en 200 épocas
+La ejecución de esta implementación se encuentra en el siguiente notebook utilizando el dataset DEAP utilizando en 200 épocas con un 75.9% de precisión en train y 71.7% en test
+
+![alt text](image-3.png)
 
 [Link Colab](https://colab.research.google.com/drive/1WrATP0vMAtg0CexIkO7k335cPNExIUkE?usp=sharing)
 
@@ -32,9 +34,9 @@ La ejecución de esta implementación se encuentra en el siguiente notebook util
 
 #### Resultados obtenidos
 
-La ejecución de esta implementación se encuentra en el siguiente notebook utilizando el dataset DEAP utilizando en 200 épocas con unos resultados en test de 82.5%
+La ejecución de esta implementación se encuentra en el siguiente notebook utilizando el dataset DEAP utilizando en 200 épocas con unos resultados en test de 82.5% y un train de 93.23%
 
-[Link Colab](https://colab.research.google.com/drive/1PylfW9CCpFXbsfmkFgX_yyUH3wmR2aDn#scrollTo=4ZgJPO-bvo4B)
+[Link Colab](https://colab.research.google.com/drive/1PylfW9CCpFXbsfmkFgX_yyUH3wmR2aDn?usp=sharing)
 
 ![alt text](image-2.png)
 ### 3. Multi-class Emotion Classification Using EEG Signals
@@ -43,7 +45,16 @@ La ejecución de esta implementación se encuentra en el siguiente notebook util
 
 **Solución:** Utiliza modelos LSTM y CNN para clasificar emociones a partir de señales EEG, logrando precisiones de 88.60% y 87.72%, respectivamente. Este enfoque demuestra la efectividad de los modelos de aprendizaje profundo en el reconocimiento de emociones.
 
+
+
 [Link Paper](https://link.springer.com/chapter/10.1007/978-981-16-0401-0_38)
+
+#### Resultados obtenidos
+
+La ejecución de esta implementación se encuentra en el siguiente notebook utilizando el dataset DEAP utilizando en 200 épocas con un 85.65% de precisión en train y 78.77% en test
+
+
+![alt text](image-4.png)
 
 ## Tabla Comparativa
 

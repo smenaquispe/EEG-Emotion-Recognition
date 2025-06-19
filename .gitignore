@@ -1,0 +1,4 @@
+*.txt
+*.zip
+Emotion_Recognition/deap-dataset
+Emotion_Recognition/venv
